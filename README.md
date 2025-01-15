@@ -13,3 +13,7 @@ It's build with Python Flask and Bootstrap
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/24H_Pharmacy-Flask/master/image2.png)
 
+## Search by week
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/24H_Pharmacy-Flask/master/image3.png)
+
