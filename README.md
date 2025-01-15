@@ -5,5 +5,5 @@ This is a online-pharmacy-store app, designed to help the users see which pharma
 
 ## Home page
 
-![Alt text](https://raw.githubusercontent.com/OrdancheNedev/master/24H_Pharmacy-Flask/image1.png)
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/24H_Pharmacy-Flask/master/image1.png)
 
