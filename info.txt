@@ -1,0 +1,17 @@
+[
+    {"id":"1","Name":"Company1","Date":"week number 1","Contact":"123456789","City":"City1","Location":"https://www.google.com/maps/"},
+    {"id":"2","Name":"Company2","Date":"week number 2","Contact":"987654321","City":"City1","Location":"https://www.google.com/maps/"},
+    {"id":"3","Name":"Company3","Date":"week number 3","Contact":"321456987","City":"City1","Location":"https://www.google.com/maps/"},
+    {"id":"1","Name":"Company1","Date":"week number 4","Contact":"123456789","City":"City1","Location":"https://www.google.com/maps/"},
+
+    {"id":"4","Name":"Company4","Date":"week number 1","Contact":"123456789","City":"City2","Location":"https://www.google.com/maps/"},
+    {"id":"5","Name":"Company5","Date":"week number 2","Contact":"987654321","City":"City2","Location":"https://www.google.com/maps/"},
+    {"id":"6","Name":"Company6","Date":"week number 3","Contact":"321456987","City":"City2","Location":"https://www.google.com/maps/"},
+    {"id":"4","Name":"Company4","Date":"week number 4","Contact":"123456789","City":"City2","Location":"https://www.google.com/maps/"},
+
+    
+    {"id":"7","Name":"Company7","Date":"week number 1","Contact":"123456789","City":"City3","Location":"https://www.google.com/maps/"},
+    {"id":"8","Name":"Company8","Date":"week number 2","Contact":"987654321","City":"City3","Location":"https://www.google.com/maps/"},
+    {"id":"9","Name":"Company9","Date":"week number 3","Contact":"321456987","City":"City3","Location":"https://www.google.com/maps/"},
+    {"id":"7","Name":"Company7","Date":"week number 4","Contact":"123456789","City":"City3","Location":"https://www.google.com/maps/"}
+]
