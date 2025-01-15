@@ -21,6 +21,14 @@ It's build with Python Flask and Bootstrap
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/24H_Pharmacy-Flask/master/image3.png)
 
+
+
+## Search by week and city
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/24H_Pharmacy-Flask/master/image5.png)
+
+
+
 ## Flexibility
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/24H_Pharmacy-Flask/master/image6.png)
